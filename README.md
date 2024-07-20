@@ -1,4 +1,4 @@
-# Telegram Clone
+# Realtime Messaging App
 
 This project is a pixel-perfect replica of the Telegram messaging application, built using ReactJS, TanStack Query. It replicates both desktop and mobile views of the Telegram UI/UX.
 
