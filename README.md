@@ -43,9 +43,3 @@ This will start the Vite development server. Open your browser and navigate to t
 ## Deployment
 
 This project is deployed on Netlify.
-
-## Contact
-
-Vinay kumar - s170528@rguktsklm.ac.in
-
-Project Link: https://github.com/P-Vinay-kumar/React-Project
